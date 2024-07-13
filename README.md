@@ -6,3 +6,6 @@
 1. 首先按照上面的教程搭建好环境
 2. 在项目根目录下创建一个.env文件，并配置自己的openapi key
 3. 激活 chatgpt 环境，执行 python ./src/main.py
+
+### 说明
+1. 启动order_dinner.py的指令是 `panel serve ./src/order_dinner.py`
